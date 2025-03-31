@@ -1,5 +1,5 @@
 ## Hi there 👋
-
+I'm just a normal student, a new starter,but I will keep up
 <!--
 **Elopez4ever/Elopez4ever** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
